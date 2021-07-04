@@ -1,0 +1,6 @@
+%{
+  "cowboy": {:git, "https://github.com/wojtekmach/cowboy.git", "385cc4aca3c54788d739ecd35536c3e9eca35207", [branch: "wm-elixir-run"]},
+  "cowlib": {:git, "https://github.com/wojtekmach/cowlib.git", "df7f03f4f01938a812021893f950fa2037273213", [branch: "wm-elixir-run"]},
+  "ranch": {:git, "https://github.com/wojtekmach/ranch.git", "01fc871f2db4390f8dde7254a35349d631002985", [branch: "wm-elixir-run"]},
+  "telemetry": {:git, "https://github.com/wojtekmach/telemetry.git", "4cbe780ada11eeb888e043c71c13a7b1f3542e62", [branch: "wm-elixir-run"]},
+}
